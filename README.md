@@ -1,2 +1,2 @@
 # Google Ui clone using flutter.
-## This site was built using [GitHub Pages](https://pages.github.com/).
+## Watch live here [Google WebPage](https://imanojg-hub.github.io/google_ui/).
